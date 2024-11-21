@@ -9,6 +9,12 @@ This project aims at creating a small neural network with PyTorch and training i
 - [x] Display results
 - [ ] Write a paper
 
+| Header 1 | Header 2 |
+| :---: | :---: |
+| Row 1 Value 1 | Row 1 Value 2 |
+| Row 2 Value 1 | Row 2 Value 2 |
+
+
 Some useful links to learn about neural networks:
 - [YouTube crash course](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 - [NPTEL course on deep learning](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU)
